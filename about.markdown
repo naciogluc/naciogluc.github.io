@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hakkimizda
+permalink: /hakkimizda/
 ---
 # 🏪 Hakkımızda
 
@@ -9,7 +9,7 @@ permalink: /about/
 
 <!-- *Eryaman'daki mağazamızdan bir kare* -->
 
-2010 yılından bu yana **Ankara Eryaman**'da faaliyet gösteren mağazamız, Türkiye genelindeki birçok **hastane**, **özel klinik**, **laboratuvar** ve **sağlık merkezi**ne kaliteli medikal ürün tedariki sağlamaktadır.
+2017 yılından bu yana **Ankara Eryaman**'da faaliyet gösteren mağazamız, Türkiye genelindeki birçok **hastane**, **özel klinik**, **laboratuvar** ve **sağlık merkezi**ne kaliteli medikal ürün tedariki sağlamaktadır.
 
 ## 🎯 Misyonumuz
 
@@ -23,13 +23,20 @@ Sağlık sektörünün gereksinim duyduğu tüm tıbbi ürünleri; **güvenilir*
 - ✅ Kurumsal iş birliklerine özel fiyatlandırma  
 - ✅ Profesyonel ve çözüm odaklı müşteri hizmetleri  
 
+
+![Dezenfektan]({{ site.baseurl }}/Images/logo.png)
+
 ## 📍 Mağaza Konumu
 
-📌 **Adres:** Eryaman Mah. Sağlık Sok. No:10, Etimesgut / Ankara  
-📞 **Telefon:** +90 312 000 00 00  
+📌 **Adres:** Devlet Mahallesi Akcenter Avm 262. Cadde No:6/102 Eryaman/Etimesgut
+
+📞 **Telefon:** +90 532 610 6361 
+
 🌐 **Web:** [www.nacioglumedikal.com](http://www.nacioglumedikal.com)
 
 ---
+
+
 
 **Sağlıkta kalite, doğru tedarikle başlar. Biz buradayız!**
 

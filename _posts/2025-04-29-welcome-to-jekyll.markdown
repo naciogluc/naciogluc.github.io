@@ -83,6 +83,21 @@ Sağlık kurumlarının ihtiyaç duyduğu **güvenilir**, **hijyenik** ve **onay
 | Dezenfktan Batikon Cesitleri |
 
 
+| Ürün Görseli | Ürün Adı                                | Fiyat (₺) |
+|--------------|------------------------------------------|-----------|
+| ![Tansiyon]({{ site.baseurl }}/Images/1-pulsemed.jpg)   | Pulsemed Tansiyon Cihazı             | 350 ₺     |
+| ![Bladeset]({{ site.baseurl }}/Images/2-bladeset.jpg)   | 3'lü Bladeset                        | 150 ₺     |
+| ![Blade]({{ site.baseurl }}/Images/3-bladeset.jpg)      | Tek Blade Görünüm                    | 50 ₺      |
+| ![Blade]({{ site.baseurl }}/Images/4-bladeset.jpg)      | Tek Blade Görünüm                    | 50 ₺      |
+| ![Gaz]({{ site.baseurl }}/Images/5-gaz.jpg)             | Pamuklu Steril Gaz Kompres          | 25 ₺      |
+| ![İğne]({{ site.baseurl }}/Images/6-igne.jpg)           | Vakumlu Kan Alma İğnesi             | 15 ₺      |
+| ![Enjeksiyon]({{ site.baseurl }}/Images/7-enjek.jpg)    | Enjeksiyon Flasteri                 | 10 ₺      |
+| ![Otoskop]({{ site.baseurl }}/Images/8-otoskop.jpg)     | Otoskop Ucu                         | 20 ₺      |
+| ![İğne]({{ site.baseurl }}/Images/10-igne.jpg)          | Süper İnce İğne Ucu                 | 12 ₺      |
+| ![Spatula]({{ site.baseurl }}/Images/11-spatula.jpg)    | Medikal Spatula                     | 8 ₺       |
+| ![Fiber]({{ site.baseurl }}/Images/12-fiber.jpg)        | Fiber Optik Oftalmoskop Seti        | 400 ₺     |
+| ![Rulo]({{ site.baseurl }}/Images/13-rulo.jpg)          | Rulo                                 | 5 ₺       |
+| ![Makas]({{ site.baseurl }}/Images/14-makas.jpg)        | Tek Kullanımlık Cilt Stapleri       | 35 ₺      |
 
 
 

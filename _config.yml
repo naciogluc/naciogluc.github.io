@@ -20,10 +20,11 @@
 
 title: Nacioglu Medikal
 email: nacioglucetin@gmail.com
+phone: +90 532 610 6361
 description: >- # this means to ignore newlines until "baseurl:"
   Mağazamız, sağlık kurumlarında kullanılmak üzere steril malzemeler, medikal cihazlar ve laboratuvar ekipmanlarını içeren yüksek kaliteli tıbbi ürünler sunmakta olup, güvenilir ve hızlı tedarik hizmetiyle sağlık kuruluşlarının tüm ihtiyaçlarına çözüm sağlamaktadır.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.nacioglumedikal.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings

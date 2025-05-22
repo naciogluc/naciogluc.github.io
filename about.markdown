@@ -24,11 +24,11 @@ Sağlık sektörünün gereksinim duyduğu tüm tıbbi ürünleri; **güvenilir*
 - ✅ Profesyonel ve çözüm odaklı müşteri hizmetleri  
 
 
-![Dezenfektan]({{ site.baseurl }}/Images/logo.png)
+![Logo]({{ site.baseurl }}/Images/logo.png)
 
 ## 📍 Mağaza Konumu
 
-📌 **Adres:** Devlet Mahallesi Akcenter Avm 262. Cadde No:6/102 Eryaman/Etimesgut
+📌 **Adres:** Devlet Mahallesi Akcenter AVM 262. Cadde No:6/102 Eryaman/Etimesgut
 
 📞 **Telefon:** +90 532 610 6361 
 
